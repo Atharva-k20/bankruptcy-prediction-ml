@@ -1,2 +1,2 @@
-# bankruptcy-prediction-ml
-A machine learning classification project that predicts whether a company will go bankrupt using financial indicators and ML algorithms like Random Forest, Logistic Regression and Decision Trees.
+# company-bankruptcy-prediction
+BFSI ML project to predict company bankruptcy using financial ratios | Gradient Boosting | SMOTE | ROC-AUC: 0.943
